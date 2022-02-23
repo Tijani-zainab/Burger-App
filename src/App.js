@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 // import './App.css';
-import Layout from "./components/Layout/Layout";
+import Layout from "./hoc/Layout/Layout";
 import BurgerBuider from "./containers/BurgerBuilder/BurgerBuilder";
 
 function App() {
